@@ -1,0 +1,13 @@
+body{
+    background-color: blanchedalmond;
+}
+a{
+    font-size: xx-large;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    text-decoration: none;
+}
+.cake{
+    display: flex;
+}
